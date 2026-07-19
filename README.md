@@ -4,7 +4,7 @@
 
 Mutual funds are one of the most popular investment options because they allow investors to diversify their investments while being managed by professional fund managers. Different mutual funds have different objectives, risk levels, and investment strategies.
 
-The purpose of this project is to analyze a mutual fund dataset using Python. The project focuses on cleaning the data, exploring different fund categories, understanding risk levels, performing statistical analysis, and creating visualizations that help identify trends and patterns.
+The purpose of this project is to analyze a mutual fund dataset using Python. The project focuses on cleaning the data, exploring different fund categories, understanding risk levels, performing statistical analysis, and creating visualizations that help identify trends and  patterns.
 
 # Project Objective
 
